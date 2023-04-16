@@ -1,0 +1,16 @@
+#parent{
+    background-color: red;
+    width:100vw;
+    height:80vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.child{
+    background-color: yellow;
+    width: 200px;
+    height:200px;
+    border:1 px solid black;
+
+}
